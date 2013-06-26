@@ -23,11 +23,11 @@ możliwe wyniki:
 * 40 30
 itd..
 
-*  A -  (przewaga lewego gracza)
-*  \- A  (przewaga prawego gracza)
-*  W -  (lewy wygrał)
-*  \- W  (prawy wygrał)
-*  remis
+*  deuce (obaj gracze wygrali przynajmniej 4 piłki i wygrali tyle samo piłek)
+*  A -  (przewaga gracza A)
+*  \- A  (przewaga gracza B)
+*  W -  (A wygrał)
+*  \- W  (B wygrał)
 
 w celu zapoznania się z pełnymi zasadami gry:
 http://en.wikipedia.org/wiki/Tennis#Scoring -> sekcja 'Game'

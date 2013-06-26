@@ -24,9 +24,9 @@ możliwe wyniki:
 itd..
 
 *  A -  (przewaga lewego gracza)
-*  - A  (przewaga prawego gracza)
+*  \- A  (przewaga prawego gracza)
 *  W -  (lewy wygrał)
-*  - W  (prawy wygrał)
+*  \- W  (prawy wygrał)
 *  remis
 
 w celu zapoznania się z pełnymi zasadami gry:
